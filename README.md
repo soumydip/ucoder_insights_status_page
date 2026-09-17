@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.insights.ucoder.in): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Soumyadip Modak](https://status.insights.ucoder.in), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Soumyadip Maity](https://status.insights.ucoder.in), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/soumydip/ucoder_insights_status_page/workflows/Uptime%20CI/badge.svg)](https://github.com/soumydip/ucoder_insights_status_page/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/soumydip/ucoder_insights_status_page/workflows/Response%20Time%20CI/badge.svg)](https://github.com/soumydip/ucoder_insights_status_page/actions/workflows/response-time.yml)
